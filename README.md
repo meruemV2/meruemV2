@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meruemV2
 - 👀 I’m interested in basketball, coding, anime, and food. 
-- 🌱 I’m studied computer science at Florida State University 
-- 💞️ I’m looking to collaborate on all things tech, with emphasis on both front-end and back-end programming projects.
-- 📫 How to reach me: jerrylaplante.com | jerrylaplante@outlook.com 
+- 🌱 I’m a CS Masters student at UIUC
+- 💞️ I’m looking to collaborate on all things tech, with emphasis on front-end, ML, and cloud computing.
+- 📫 How to reach me: jerrylaplante@outlook.com 
